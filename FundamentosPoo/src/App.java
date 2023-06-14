@@ -24,8 +24,14 @@ public class App {
 		System.out.println("Cor do carro = " + meuCarro.cor);
 		System.out.println("Ano do carro = " + meuCarro.ano);
 		//
+		Computador pc1 = new Computador();
 		
+		pc1.ano = 2023;
 		
+		pc1.marca = "positivo";
+		
+		System.out.println("Ano pc = " + pc1.ano);
+		System.out.println("Marca do pc = " + pc1.marca);
 		
 		
 		
