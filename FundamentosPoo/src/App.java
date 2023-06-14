@@ -22,7 +22,7 @@ public class App {
 		System.out.println("Carro 1 = ");
 		System.out.println("Modelo = " + meuCarro.modelo);
 		System.out.println("Cor do carro = " + meuCarro.cor);
-		System.out.println("Ano do carro = " + meuCarro.ano);
+		System.out.println("Ano cadsrrdso = " + meuCarro.ano);
 		//
 		Computador pc1 = new Computador();
 		
