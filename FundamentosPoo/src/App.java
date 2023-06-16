@@ -26,12 +26,15 @@ public class App {
 		//
 		Computador pc1 = new Computador();
 		
-		pc1.ano = 2023;
+		pc1.nome = "positivo";
 		
-		pc1.marca = "positivo";
+		pc1.ssd = 256;
 		
-		System.out.println("Ano pc = " + pc1.ano);
-		System.out.println("Marca do pc = " + pc1.marca);
+		pc1.tamanhoMemoriaRam = "32gb";
+		
+		System.out.println("Ano pc = " + pc1.nome);
+		System.out.println("Marca do pc = " + pc1.ssd);
+		System.out.println("Marca do pc = " + pc1.tamanhoMemoriaRam);
 		
 		
 		

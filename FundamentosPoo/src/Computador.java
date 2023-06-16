@@ -1,8 +1,10 @@
 
 public class Computador {
 
-	public  int ano;
+	public String nome;
 	
-	public String marca;
+	public String tamanhoMemoriaRam;
+	
+	public int ssd;
 	
 }
